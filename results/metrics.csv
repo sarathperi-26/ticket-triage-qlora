@@ -1,0 +1,9 @@
+,Majority guess,Prompted base,Fine-tuned (QLoRA)
+valid_json_%,100.0,100.0,100.0
+schema_valid_%,100.0,91.0,99.7
+product_acc_%,19.0,50.0,84.0
+product_macro_f1,0.053,0.474,0.837
+issue_acc_%,29.7,14.0,60.0
+issue_macro_f1,0.035,0.107,0.484
+exact_match_%,1.0,8.0,58.0
+sec_per_example,,0.11,0.172
